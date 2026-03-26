@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "スライムライフ",
+  "base_artist": "Kiro Akiyama",
+  "createdAt": "2026-03-26T07:45:08.230980Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スライムライフ",
+      "artist": "Kiro Akiyama",
+      "has_synced": true,
+      "path": "select/01_スライムライフ_Kiro_Akiyama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スライムライフ",
+      "artist": "秋山黄色",
+      "has_synced": true,
+      "path": "select/02_スライムライフ_秋山黄色.lrc"
+    }
+  ]
+}
